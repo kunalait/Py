@@ -1,6 +1,8 @@
 import numpy as np
 import time
 import sys
+
+
 SIZE = 1000000
 l1 = range(SIZE)
 l2 = range(SIZE)
